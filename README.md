@@ -28,7 +28,6 @@ SHAP analysis identified the following molecular descriptors as significant cont
 ### Project Structure
 - `data/`: Contains the TOX21 dataset.
 - `src/`: Source code for data processing, model training, and SHAP analysis.
-- `models/`: Trained model files.
 - `results/`: Analysis results and visualizations.
 - `docs/`: Detailed documentation of the methodology.
 
