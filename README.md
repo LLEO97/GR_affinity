@@ -30,9 +30,3 @@ SHAP analysis identified the following molecular descriptors as significant cont
 - `src/`: Source code for data processing, model training, and SHAP analysis.
 - `results/`: Analysis results and visualizations.
 - `docs/`: Detailed documentation of the methodology.
-
-## Installation & Usage
-### 1. Clone the Repository
-```bash
-git clone https://github.com/LLEO97/GR_affinity.git
-cd GR_affinity
